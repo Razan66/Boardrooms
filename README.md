@@ -1,4 +1,7 @@
-# Board Rooms App Documentation![Uploading Screenshot 1446-07-30 at 10.57.46 AM.png…]()
+# Board Rooms App Documentation
+
+<img width="697" alt="Screenshot 1446-07-30 at 10 58 41 AM" src="https://github.com/user-attachments/assets/1059ded1-0d75-488a-a341-33bd2e911249" />
+
 
 
 ## Overview
